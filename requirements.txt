@@ -1,0 +1,2 @@
+# This file is for listing Python dependencies.
+# It is intentionally left empty for now as the project scaffold is being created.
